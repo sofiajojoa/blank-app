@@ -1,4 +1,4 @@
-```python
+python
 import random
 
 import streamlit as st
@@ -351,4 +351,3 @@ st.markdown(
     '<div style="text-align:center; color:#8790a8; font-size:.88rem; margin-top:1.4rem;">Aprender también es jugar. ¡Sigue brillando! ✨</div>',
     unsafe_allow_html=True,
 )
-```
